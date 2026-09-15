@@ -1,6 +1,6 @@
 <div align="center">
   <h1>lailai0916 · GitHub defaults</h1>
-  <p>English | <a href="README.zh-Hans.md">简体中文</a></p>
+  <p><strong>English</strong> · <a href="README.zh-Hans.md">简体中文</a></p>
   <p>
     <img src="https://img.shields.io/github/last-commit/lailai0916/.github?style=flat-square" alt="last commit" />
     <img src="https://img.shields.io/github/license/lailai0916/.github?style=flat-square" alt="license" />
